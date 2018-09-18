@@ -1,0 +1,8 @@
+waveplayer.c:107:6:HAL_GPIO_EXTI_Callback	0	static
+waveplayer.c:230:6:WavePlayerStop	0	static
+waveplayer.c:240:5:WavePlayerInit	8	static
+waveplayer.c:161:6:WavePlayBack	32	static
+waveplayer.c:122:6:WavePlayerStart	72	static
+waveplayer.c:261:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	0	static
+waveplayer.c:271:6:BSP_AUDIO_OUT_TransferComplete_CallBack	0	static
+waveplayer.c:282:6:BSP_AUDIO_OUT_Error_CallBack	0	static
